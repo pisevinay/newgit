@@ -1,5 +1,5 @@
 
-class java1
+class njava
 {
    public static void main(String args[])
 
